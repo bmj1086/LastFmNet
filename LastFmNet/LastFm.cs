@@ -7,6 +7,6 @@ namespace LastFmNet
 {
     public static class LastFm
     {
-        //
+        ///
     }
 }
